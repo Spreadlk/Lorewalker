@@ -1,0 +1,24 @@
+
+
+[04.08.2024 13:47:59] [STARTING] Attempting to start the bot..
+NodeJS Version: v20.12.2
+Bot Version: 1.7.52024-08-04T10:48:44.423Z - ERROR: MongooseError: Operation `guilddatas.findOne()` buffering timed out after 10000ms
+
+
+[04.08.2024 14:00:53] [STARTING] Attempting to start the bot..
+NodeJS Version: v20.12.2
+Bot Version: 1.7.52024-08-04T11:02:02.688Z - ERROR: DiscordAPIError[10004]: Unknown Guild
+2024-08-04T11:02:03.312Z - ERROR: DiscordAPIError[10004]: Unknown Guild
+
+
+[04.08.2024 14:02:03] [READY] Bot is now ready!14:2 (4-8-2024) - Bot started up - Node.js v20.12.2 - App Version 1.7.5
+2024-08-04T11:02:05.023Z - ERROR: DiscordAPIError[10004]: Unknown Guild
+2024-08-04T11:02:09.784Z - ERROR: DiscordAPIError[10004]: Unknown Guild
+
+
+[04.08.2024 14:18:24] [STARTING] Attempting to start the bot..
+NodeJS Version: v20.12.2
+Bot Version: 1.7.514:18 (4-8-2024) - Bot started up - Node.js v20.12.2 - App Version 1.7.5
+
+
+[04.08.2024 14:18:54] [READY] Bot is now ready!
